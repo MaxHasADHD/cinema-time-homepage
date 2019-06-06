@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Maximilian Litteral                                
 your_link                                 : http://maximilianlitteral.com                     
-your_city                                 : massachusetts                                
+your_city                                 : Massachusetts                                
 email_address                             : maxlitteral@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
@@ -58,17 +58,17 @@ features                                  :
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Multiple languages supported
+    description                           : English, Spanish, Italian, German, Japanese, and more.
+    fontawesome_icon_name                 : language
 
   - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    description                           : View movie info from Trakt, TheMovieDB, and IMDb
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Accessibility Support
+    description                           : VoiceOver, Dynamic text, and more!
+    fontawesome_icon_name                 : universal-access
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
