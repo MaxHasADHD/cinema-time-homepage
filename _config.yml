@@ -54,9 +54,9 @@ features                                  :
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Track how many movies you see
+    description                           : View various statistics about your movie watching habits such as time spent watching movies, number of movies seen, and movie history.
+    fontawesome_icon_name                 : chart-bar
 
   - title                                 : Multiple languages supported
     description                           : English, Spanish, Italian, German, Japanese, and more.
@@ -98,7 +98,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#FC1745"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
