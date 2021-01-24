@@ -20,7 +20,9 @@ Cinema Time is an app that allows you to track what movies you've watched, want 
 - **Accessibility** Dynamic type and VoiceOver is fully supported.
 - **A Great iOS Citizen** Adopting the latest and greatest features is important. Features such as dark mode, drag and drop, cursor support, keyboard shortcuts, context menus, spotlight search, widgets and more is supported.
 - **Privacy Focused** Cinema Time does not collect any information about it's users. Unless a user enables Trakt.tv sync their content is stored on-device and private.
+
 <br>
+
 ## Pricing
 $2.99 one-time payment. There are in-app purchases as a tipping mechanism but is not required.
 <br>
