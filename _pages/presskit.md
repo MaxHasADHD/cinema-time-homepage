@@ -23,7 +23,7 @@ Cinema Time is an app that allows you to track what movies you've watched, want 
 ## Media
 <tr>
     <td> <img src="/assets/images/presskit/iPhone 12 Pro Max-0-tab-movies.png" alt="Movies Tab" style="width: 250px;"/> </td>
-    <td> <img src="/Users/maximilian/Developer/cinema-time-homepage/assets/images/presskit/iPhone 12 Pro Max-1-tab-discover.png" alt="Discover Tab" style="width: 250px;"/> </td>
+    <td> <img src="/assets/images/presskit/iPhone 12 Pro Max-1-tab-discover.png" alt="Discover Tab" style="width: 250px;"/> </td>
 </tr>
 
 <br>
