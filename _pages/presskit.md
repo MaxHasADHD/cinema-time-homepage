@@ -6,8 +6,6 @@ include_in_header: true
 
 # Press Kit
 
-<br>
-
 ## What is Cinema Time exactly?
 Cinema Time is an app that allows you to track what movies you've watched, want to watch, and when they release. There is so much entertainment that it's easy to lose track, especially now since a films release date is so uncertain.
 <br>
@@ -22,12 +20,18 @@ Cinema Time is an app that allows you to track what movies you've watched, want 
 - **Privacy Focused** Cinema Time does not collect any information about it's users. Unless a user enables Trakt.tv sync their content is stored on-device and private.
 
 <br>
+## Media
+<tr>
+    <td> <img src="/assets/images/presskit/iPhone 12 Pro Max-0-tab-movies.png" alt="Movies Tab" style="width: 250px;"/> </td>
+    <td> <img src="/Users/maximilian/Developer/cinema-time-homepage/assets/images/presskit/iPhone 12 Pro Max-1-tab-discover.png" alt="Discover Tab" style="width: 250px;"/> </td>
+</tr>
 
+<br>
 ## Pricing
 $2.99 one-time payment. There are in-app purchases as a tipping mechanism but is not required.
 <br>
 ## Original Release Date
-December 13, 2017. Version 1.2.2 was released on November 22, 2019.
+December 13, 2017. Version 2.0 will be released on February 15, 2021.
 <br>
 ## Availability
 Cinema Time is available in all territories that the App Store supports. The app interface is localized for English, French, Italian, Dutch, German, Chinese, Spanish, Japanese, Polish, Portuguese, Swedish, Turkish, and Czech. Movie information (title, overview, release, etc) is localized for the country it originated.

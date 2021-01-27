@@ -8,6 +8,20 @@ include_in_header: true
 
 <br>
 
+### `2/15`
+# **Version 2.0**
+Cinema Time 2 has been redesigned with readability, and accessibility in mind.
+- Movie information and lists have a new modern look
+- Add support for light theme
+- Add support for dynamic text. Even posters, cast and crew images will increase in size
+- Add alternative app icons
+- Add support for context menus
+- Add support for drag and drop; Drag movies or IMDb URLs into a list to add.
+- Improve movie sharing that will open Cinema Time on any iOS device
+- Improve sync with Trakt
+
+<br>
+
 ### `Latest`
 # **Version 1.2.2**
 - Fix crash when opening Stats tab
