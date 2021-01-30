@@ -22,7 +22,7 @@ Cinema Time is an app that allows you to track what movies you've watched, want 
 <br>
 
 ### Media
-
+All of the following images and the Cinema Time logo are downloadable [here](/assets/images/presskit/CinemaTimePressKit.zip). Additionally, feel free to pick and choose only the ones you need below:
 ##### iPhone
 <p align="center">
 <tr>
@@ -38,7 +38,7 @@ Cinema Time is an app that allows you to track what movies you've watched, want 
 ##### iPad
 <p align="center">
 <tr>
-    <td> <img src="/assets/images/presskit/iPad Pro (9.7-inch)-0-tab-movies" alt="Movies Tab" style="width: 500px;"/> </td>
+    <td> <img src="/assets/images/presskit/iPad Pro (9.7-inch)-0-tab-movies.png" alt="Movies Tab" style="width: 500px;"/> </td>
 </tr>
 <tr>
     <td> <img src="/assets/images/presskit/iPad Pro (9.7-inch)-1-tab-discover.png" alt="Discover Tab" style="width: 500px;"/> </td>
