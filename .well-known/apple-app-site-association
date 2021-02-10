@@ -4,7 +4,7 @@
     "details" : [
       {
         "appID": "U6J8328WE2.com.litteral.Movies",
-        "paths": ["*", "/movies/*"]
+        "paths": ["/movies/*"]
       }
     ]
   }
