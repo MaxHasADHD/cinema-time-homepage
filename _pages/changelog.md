@@ -9,6 +9,7 @@ include_in_header: true
 ### `Upcoming - Submitted 2/15`
 # **Version 2.0.1**
 - Add support for the light theme to search
+- Add context menus for cast / crew
 - Improve import / export support
 - Fix rounding error causing 2 poster layout on iPhone 12 Max
 - Fix opening search from spotlight
