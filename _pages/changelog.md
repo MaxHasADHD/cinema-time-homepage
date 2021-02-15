@@ -8,7 +8,7 @@ include_in_header: true
 
 <br>
 
-### `2/15`
+### `Latest`
 # **Version 2.0**
 Cinema Time 2 has been redesigned with readability, and accessibility in mind.
 - Movie information and lists have a new modern look
@@ -22,7 +22,6 @@ Cinema Time 2 has been redesigned with readability, and accessibility in mind.
 
 <br>
 
-### `Latest`
 # **Version 1.2.2**
 - Fix crash when opening Stats tab
 - Fix localization issues
