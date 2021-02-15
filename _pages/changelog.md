@@ -6,6 +6,14 @@ include_in_header: true
 
 # Changelog
 
+### `Upcoming - Submitted 2/15`
+# **Version 2.0.1**
+- Add support for the light theme to search
+- Improve import / export support
+- Fix rounding error causing 2 poster layout on iPhone 12 Max
+- Fix opening search from spotlight
+- Fix crash when importing an older backup file
+
 <br>
 
 ### `Latest`
